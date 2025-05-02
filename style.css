@@ -1,0 +1,46 @@
+
+body{
+  text-align:center;
+  background-color:#fce1f5;
+ 
+}
+h1{
+  font-family: "Dancing Script"
+}
+h2{
+  font-family: "Satisfy";
+    font-size:23px
+}
+img{
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 8px solid #fab1c6;
+     
+}
+
+.title{
+  background-color:pink;
+  margin-left: 180px;
+  margin-right: 180px;
+}
+
+
+
+#guess{
+  border:none;
+  background-color: pink;
+  margin-top:20px;
+  margin-left:auto;
+  margin-right:auto;
+  color: black;
+  padding: 20px 40px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  font-family:'Josefin Sans';
+  border-radius: 5%
+    
+}
+

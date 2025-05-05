@@ -1,5 +1,3 @@
-
-
 document.getElementById("guess").addEventListener("click", function theGuess(){
   let guess = 0
   guess = prompt("How Many flowers do you think are in this picture?")*1;
